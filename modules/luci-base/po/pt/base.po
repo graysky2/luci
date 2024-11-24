@@ -1508,11 +1508,11 @@ msgstr "Relatório do sinal"
 #: modules/luci-mod-system/htdocs/luci-static/resources/view/system/flash.js:354
 msgid ""
 "Below is the determined list of files to backup. It consists of changed "
-"configuration files marked by opkg, essential base files and the user "
+"configuration files marked by apk, essential base files and the user "
 "defined backup patterns."
 msgstr ""
 "Abaixo está a lista de ficheiros para backup. Esta consiste nos ficheiros de "
-"configuração alterados e marcados pelo opkg, ficheiros base essenciais e "
+"configuração alterados e marcados pelo apk, ficheiros base essenciais e "
 "padrões de backup definidos pelo utilizador."
 
 #: modules/luci-mod-system/htdocs/luci-static/resources/view/system/system.js:287

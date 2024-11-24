@@ -1473,7 +1473,7 @@ msgstr "信标报告"
 #: modules/luci-mod-system/htdocs/luci-static/resources/view/system/flash.js:354
 msgid ""
 "Below is the determined list of files to backup. It consists of changed "
-"configuration files marked by opkg, essential base files and the user "
+"configuration files marked by apk, essential base files and the user "
 "defined backup patterns."
 msgstr ""
 "以下是待备份的文件清单。包含了已更改的配置文件、必要的基础文件和用户自定义的"
@@ -14038,7 +14038,7 @@ msgstr "« 后退"
 #~ msgid "Free space"
 #~ msgstr "空闲空间"
 
-#~ msgid "General options for opkg"
+#~ msgid "General options for apk"
 #~ msgstr "OPKG 基础配置"
 
 #~ msgid "Install"

@@ -1483,11 +1483,11 @@ msgstr "Beacon Rapport"
 #: modules/luci-mod-system/htdocs/luci-static/resources/view/system/flash.js:354
 msgid ""
 "Below is the determined list of files to backup. It consists of changed "
-"configuration files marked by opkg, essential base files and the user "
+"configuration files marked by apk, essential base files and the user "
 "defined backup patterns."
 msgstr ""
 "Nedenfor er den bestemte liste over de filer, der skal sikkerhedskopieres. "
-"Den består af ændrede konfigurationsfiler markeret af opkg, vigtige "
+"Den består af ændrede konfigurationsfiler markeret af apk, vigtige "
 "basisfiler og de brugerdefinerede sikkerhedskopieringsmønstre."
 
 #: modules/luci-mod-system/htdocs/luci-static/resources/view/system/system.js:287

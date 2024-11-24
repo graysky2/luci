@@ -1522,11 +1522,11 @@ msgstr "Relatório do sinal"
 #: modules/luci-mod-system/htdocs/luci-static/resources/view/system/flash.js:354
 msgid ""
 "Below is the determined list of files to backup. It consists of changed "
-"configuration files marked by opkg, essential base files and the user "
+"configuration files marked by apk, essential base files and the user "
 "defined backup patterns."
 msgstr ""
 "Abaixo estão os arquivos para a cópia de segurança. Ela consiste de arquivos "
-"de configuração alterados marcados pelo opkg, arquivos base essenciais e "
+"de configuração alterados marcados pelo apk, arquivos base essenciais e "
 "padrões para a cópia de segurança definidos pelo usuário."
 
 #: modules/luci-mod-system/htdocs/luci-static/resources/view/system/system.js:287
@@ -14514,8 +14514,8 @@ msgstr "« Voltar"
 #~ msgid "Free space"
 #~ msgstr "Espaço livre"
 
-#~ msgid "General options for opkg"
-#~ msgstr "Opções gerais para o opkg"
+#~ msgid "General options for apk"
+#~ msgstr "Opções gerais para o apk"
 
 #~ msgid "Install"
 #~ msgstr "Instalar"

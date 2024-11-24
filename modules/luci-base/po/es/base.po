@@ -1534,11 +1534,11 @@ msgstr "Informe de baliza"
 #: modules/luci-mod-system/htdocs/luci-static/resources/view/system/flash.js:354
 msgid ""
 "Below is the determined list of files to backup. It consists of changed "
-"configuration files marked by opkg, essential base files and the user "
+"configuration files marked by apk, essential base files and the user "
 "defined backup patterns."
 msgstr ""
 "A continuación se muestra la lista determinada de archivos a respaldar. "
-"Consiste en archivos de configuración modificados marcados por opkg, "
+"Consiste en archivos de configuración modificados marcados por apk, "
 "archivos base esenciales y patrones de copia de seguridad definidos por el "
 "usuario."
 

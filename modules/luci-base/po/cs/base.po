@@ -1477,11 +1477,11 @@ msgstr ""
 #: modules/luci-mod-system/htdocs/luci-static/resources/view/system/flash.js:354
 msgid ""
 "Below is the determined list of files to backup. It consists of changed "
-"configuration files marked by opkg, essential base files and the user "
+"configuration files marked by apk, essential base files and the user "
 "defined backup patterns."
 msgstr ""
 "Seznam souborů k zálohování lze nalézt níže. Sestává se z konfiguračních "
-"souborů označených opkg, nezbyných systémových souborů a souborů "
+"souborů označených apk, nezbyných systémových souborů a souborů "
 "vyhovujících uživatelem určeným vzorům."
 
 #: modules/luci-mod-system/htdocs/luci-static/resources/view/system/system.js:287

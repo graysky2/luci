@@ -1530,11 +1530,11 @@ msgstr "Отчет о маяках"
 #: modules/luci-mod-system/htdocs/luci-static/resources/view/system/flash.js:354
 msgid ""
 "Below is the determined list of files to backup. It consists of changed "
-"configuration files marked by opkg, essential base files and the user "
+"configuration files marked by apk, essential base files and the user "
 "defined backup patterns."
 msgstr ""
 "Ниже приводится определённый список файлов для резервного копирования. Он "
-"состоит из измененных config файлов, отмеченных opkg, необходимых базовых "
+"состоит из измененных config файлов, отмеченных apk, необходимых базовых "
 "файлов, а также шаблонов резервного копирования, определенных пользователем."
 
 #: modules/luci-mod-system/htdocs/luci-static/resources/view/system/system.js:287

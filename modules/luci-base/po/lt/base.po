@@ -1550,12 +1550,12 @@ msgstr "Signalinė ataskaita"
 #: modules/luci-mod-system/htdocs/luci-static/resources/view/system/flash.js:354
 msgid ""
 "Below is the determined list of files to backup. It consists of changed "
-"configuration files marked by opkg, essential base files and the user "
+"configuration files marked by apk, essential base files and the user "
 "defined backup patterns."
 msgstr ""
 "Toliau pateikiamas nustatytų failų atsarginės kopijos, kurias reikia "
 "sukurti; sąrašas. Jį sudaro pakeistos konfigūracijos failai, pažymėti – "
-"„opkg“, esminiai baziniai failai ir naudotojo/vartotojo nustatyti atsarginių "
+"„apk“, esminiai baziniai failai ir naudotojo/vartotojo nustatyti atsarginių "
 "kopijų kūrimo šablonai."
 
 #: modules/luci-mod-system/htdocs/luci-static/resources/view/system/system.js:287
@@ -9483,7 +9483,7 @@ msgstr ""
 "tikri, kad programinė įranga yra teisinga ir skirta Jūsų įrenginiui! "
 "Įspėjame, kad Jūs įrašote failą, kuris nepraėjo pro numatytus testus ir turi "
 "didelę tikimybę, kad taps nebe pakraunamu ir savo įrenginį „brick'insite“. "
-"Programos ir moduliai diegiami per „opkg“, jeigu Jūsų įteiktas failas "
+"Programos ir moduliai diegiami per „apk“, jeigu Jūsų įteiktas failas "
 "baigiasi „*.ipk“, tada sustokite!"
 
 #: modules/luci-base/htdocs/luci-static/resources/ui.js:2686

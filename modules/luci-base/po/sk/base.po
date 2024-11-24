@@ -1482,11 +1482,11 @@ msgstr "Hlásenie beaconov"
 #, fuzzy
 msgid ""
 "Below is the determined list of files to backup. It consists of changed "
-"configuration files marked by opkg, essential base files and the user "
+"configuration files marked by apk, essential base files and the user "
 "defined backup patterns."
 msgstr ""
 "Nižšie je uvedený zoznam súborov na zálohovanie. Pozostáva zo zmenených "
-"konfiguračných súborov označených opkg, základných súborov a používateľom "
+"konfiguračných súborov označených apk, základných súborov a používateľom "
 "definovaných vzorov zálohovania."
 
 #: modules/luci-mod-system/htdocs/luci-static/resources/view/system/system.js:287

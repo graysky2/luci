@@ -1526,11 +1526,11 @@ msgstr "Tuarascáil Beacon"
 #: modules/luci-mod-system/htdocs/luci-static/resources/view/system/flash.js:354
 msgid ""
 "Below is the determined list of files to backup. It consists of changed "
-"configuration files marked by opkg, essential base files and the user "
+"configuration files marked by apk, essential base files and the user "
 "defined backup patterns."
 msgstr ""
 "Anseo thíos tá an liosta de na comhaid a chinneadh le cúltaca. Tá sé "
-"comhdhéanta de chomhaid chumraíochta athraithe marcáilte le opkg, "
+"comhdhéanta de chomhaid chumraíochta athraithe marcáilte le apk, "
 "bunchomhaid riachtanacha agus patrúin cúltaca sainithe ag an úsáideoir."
 
 #: modules/luci-mod-system/htdocs/luci-static/resources/view/system/system.js:287

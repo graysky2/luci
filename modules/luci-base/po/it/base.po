@@ -1527,11 +1527,11 @@ msgstr "Resoconto beacon"
 #: modules/luci-mod-system/htdocs/luci-static/resources/view/system/flash.js:354
 msgid ""
 "Below is the determined list of files to backup. It consists of changed "
-"configuration files marked by opkg, essential base files and the user "
+"configuration files marked by apk, essential base files and the user "
 "defined backup patterns."
 msgstr ""
 "Di seguito l'elenco dei file sottoposti a backup. È composto da file di "
-"configurazione modificati contrassegnati da opkg, file di base essenziali e "
+"configurazione modificati contrassegnati da apk, file di base essenziali e "
 "schemi di backup definiti dall'utente."
 
 #: modules/luci-mod-system/htdocs/luci-static/resources/view/system/system.js:287
@@ -13919,8 +13919,8 @@ msgstr "« Indietro"
 #~ msgid "Free space"
 #~ msgstr "Spazio libero"
 
-#~ msgid "General options for opkg"
-#~ msgstr "Opzioni generali per opkg"
+#~ msgid "General options for apk"
+#~ msgstr "Opzioni generali per apk"
 
 #~ msgid "Install"
 #~ msgstr "Installa"

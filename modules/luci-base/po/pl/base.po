@@ -1517,11 +1517,11 @@ msgstr "Raport ramek beacon"
 #: modules/luci-mod-system/htdocs/luci-static/resources/view/system/flash.js:354
 msgid ""
 "Below is the determined list of files to backup. It consists of changed "
-"configuration files marked by opkg, essential base files and the user "
+"configuration files marked by apk, essential base files and the user "
 "defined backup patterns."
 msgstr ""
 "Poniżej widoczna jest lista plików do archiwizacji. Zawiera ona zmienione "
-"pliki konfiguracyjne oznaczone przez opkg, podstawowe pliki systemowe oraz "
+"pliki konfiguracyjne oznaczone przez apk, podstawowe pliki systemowe oraz "
 "pliki oznaczone przez użytkownika do archiwizacji."
 
 #: modules/luci-mod-system/htdocs/luci-static/resources/view/system/system.js:287
@@ -14600,8 +14600,8 @@ msgstr "« Wstecz"
 #~ msgid "Free space"
 #~ msgstr "Wolna przestrzeń"
 
-#~ msgid "General options for opkg"
-#~ msgstr "Ogólne opcje dla opkg"
+#~ msgid "General options for apk"
+#~ msgstr "Ogólne opcje dla apk"
 
 #~ msgid "Install"
 #~ msgstr "Instaluj"

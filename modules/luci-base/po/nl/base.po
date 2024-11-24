@@ -1489,12 +1489,12 @@ msgstr "Baken rapport"
 #: modules/luci-mod-system/htdocs/luci-static/resources/view/system/flash.js:354
 msgid ""
 "Below is the determined list of files to backup. It consists of changed "
-"configuration files marked by opkg, essential base files and the user "
+"configuration files marked by apk, essential base files and the user "
 "defined backup patterns."
 msgstr ""
 "Hieronder vindt u de bepaalde lijst met bestanden waarvan u een back-up wilt "
 "maken. Het bestaat uit gewijzigde configuratiebestanden gemarkeerd door "
-"opkg, essentiële basisbestanden en de door de gebruiker gedefinieerde back-"
+"apk, essentiële basisbestanden en de door de gebruiker gedefinieerde back-"
 "uppatronen."
 
 #: modules/luci-mod-system/htdocs/luci-static/resources/view/system/system.js:287
